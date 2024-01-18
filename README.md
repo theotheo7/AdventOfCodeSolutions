@@ -1,2 +1,1 @@
 # AdventOfCodeSolutions
-# AdventOfCodeSolutions
